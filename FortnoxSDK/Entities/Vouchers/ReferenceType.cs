@@ -18,4 +18,6 @@ public enum ReferenceType
     CashInvoice,
     [EnumMember(Value = "ACCRUAL")]
     Accrual,
+    [EnumMember(Value = "RECEIPT")]
+    Receipt,
 }
